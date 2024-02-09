@@ -1,2 +1,2 @@
 # DS4200
-This repo is for all DS4200 HWs and Projects
+This repository is for my DS4300 HW and Project Portfolio
